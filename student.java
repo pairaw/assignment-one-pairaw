@@ -2,7 +2,7 @@ package kustUniversity;
 
 public class student {
 	
-	privite String name;
+	private String name;
 	private String ID;
 	private String department;
 	private double balance;
