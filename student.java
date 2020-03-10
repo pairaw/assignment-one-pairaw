@@ -2,11 +2,11 @@ package kustUniversity;
 
 public class student {
 	
-	public String name;
-	public String ID;
-	public String department;
-	public double balance;
-	public String course;
+	privite String name;
+	private String ID;
+	private String department;
+	private double balance;
+	private String course;
 	
 	//Generating getters and setters 
 	public String getName() {
